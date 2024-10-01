@@ -1,1 +1,1 @@
-# serverAboutMe
+Hi, I’m Mikeal Fowler – a passionate and driven individual from Halifax, Nova Scotia, currently residing in Lower Sackville. I work at the Halifax Public Libraries, specifically at the Halifax North branch, where I take pride in helping my community access valuable information and resources.
